@@ -30,7 +30,7 @@ Cada gráfico es interactivo, con tooltips para facilitar la interpretación de 
 
 ## 🌐 Demo en línea
 Configurado con **GitHub Pages**, disponible en:  
-👉 (https://github.com/JC-2026/Caso-Practico-aplicacion-WEB.git)  
+👉 (https://jc-2026.github.io/Caso-Practico-aplicacion-WEB/)  
 
 ---
 
