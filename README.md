@@ -45,4 +45,4 @@ Configurado con **GitHub Pages**, disponible en:
 ## 📌 Instrucciones de uso
 1. Clonar este repositorio:  
    ```bash
-   git clone https://github.com/TU-USUARIO/nombre-del-repositorio.git
+   git clone https://jc-2026.github.io/Caso-Practico-aplicacion-WEB/
