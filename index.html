@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Aplicación Web - Caso Práctico</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+    <!-- Encabezado -->
+    <header>
+        <h1>📊 Aplicación Web de Población y Nacimientos</h1>
+        <nav>
+            <ul>
+                <li><a href="#inicio">Inicio</a></li>
+                <li><a href="#visualizaciones">Visualizaciones</a></li>
+                <li><a href="#acerca">Acerca de</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <!-- Sección inicio -->
+    <section id="inicio">
+        <h2>Bienvenido</h2>
+        <p>Esta aplicación muestra un análisis ficticio de la población y los nacimientos en el periodo 2018–2022, 
+           utilizando HTML, CSS, JavaScript y Chart.js.</p>
+    </section>
+
+    <!-- Sección visualizaciones -->
+    <section id="visualizaciones">
+        <h2>Visualizaciones</h2>
+        <div class="contenedor-graficas">
+            <div class="grafica">
+                <h3>Evolución de la Población</h3>
+                <canvas id="graficoLineas"></canvas>
+            </div>
+            <div class="grafica">
+                <h3>Nacimientos por Año</h3>
+                <canvas id="graficoBarras"></canvas>
+            </div>
+            <div class="grafica">
+                <h3>Distribución de Nacimientos</h3>
+                <canvas id="graficoPastel"></canvas>
+            </div>
+        </div>
+    </section>
+
+    <!-- Sección acerca de -->
+    <section id="acerca">
+        <h2>Acerca de esta aplicación</h2>
+        <p>El objetivo de este caso práctico es demostrar la integración de conceptos de diseño web, interactividad 
+           y visualización de datos en una aplicación sencilla y responsiva.</p>
+    </section>
+
+    <!-- Pie de página -->
+    <footer>
+        <p>© 2025 Caso practico aplicación Web | Autor: Juan Carlos Hernández Hernández</p>
+    </footer>
+
+    <!-- Script -->
+    <script src="script.js"></script>
+</body>
+</html>
