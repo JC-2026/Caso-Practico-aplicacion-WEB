@@ -29,10 +29,8 @@ Cada gráfico es interactivo, con tooltips para facilitar la interpretación de 
 ---
 
 ## 🌐 Demo en línea
-Si el repositorio está configurado con **GitHub Pages**, la aplicación estará disponible en:  
-👉 [https://TU-USUARIO.github.io/nombre-del-repositorio/](https://TU-USUARIO.github.io/nombre-del-repositorio/)  
-
-*(Reemplazar `TU-USUARIO` y `nombre-del-repositorio` por los datos correctos de tu cuenta).*
+Configurado con **GitHub Pages**, disponible en:  
+👉 (https://github.com/JC-2026/Caso-Practico-aplicacion-WEB.git)  
 
 ---
 
